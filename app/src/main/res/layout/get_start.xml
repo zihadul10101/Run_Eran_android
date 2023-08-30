@@ -61,6 +61,19 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
 
+
+        <com.google.android.material.progressindicator.LinearProgressIndicator
+            android:id="@+id/indicator"
+            android:padding="5dip"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:layout_width="120dp"
+            app:strokeWidth="10dp"
+            app:lineWidth="1dp"
+            app:unselectedColor="#4B576B"
+            app:selectedColor="#FF880000"
+            tools:ignore="MissingClass"
+/>
     </LinearLayout>
 
 </RelativeLayout>
