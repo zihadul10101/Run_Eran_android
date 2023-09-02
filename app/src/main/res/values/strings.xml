@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Run</string>
     <string name="get_start_btn">Get Started</string>
-    <string name="get_start_title">Get Started</string>
-    <string name="get_start_text">Run and earn with our app.Some\n text Example will be her</string>
+    <string name="get_start_title">Running App</string>
+    <string name="get_start_text">Run and earn with our app.Some \n text Example will be her</string>
+    <string name="sign_in_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
 </resources>
